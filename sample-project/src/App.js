@@ -1,4 +1,5 @@
 import Aboutpage from "./Aboutpage";
+import Contactpage from "./Contactpage";
 import Homepage from "./Homepage";
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
     <>
       <Homepage/>
       <Aboutpage/>
+      <Contactpage/>
     </>
   );
 }
